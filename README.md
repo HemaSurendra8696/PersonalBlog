@@ -1,2 +1,2 @@
-# PersonalPortfolio
-My Personal Portfolio
+# PersonalBlog
+My Personal Blog
