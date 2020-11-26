@@ -1,2 +1,2 @@
-# PersonalBlog
-Personal-Blog is here and Personal Portfolio is in progress...
+# PersonalPortfolio
+My Personal Portfolio
